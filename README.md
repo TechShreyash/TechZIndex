@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/TechShreyash/TechZIndex"><img src="https://socialify.git.ci/TechShreyash/TechZIndex/image?description=1&font=Jost&forks=1&issues=1&logo=https://cdn.jsdelivr.net/gh/TechShreyash/TechZIndex@main/static/img/favicon-5.png&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark"></a></h1>
+<h1 align="center"><a href="https://github.com/TechShreyash/TechZIndex"><img src="https://socialify.git.ci/TechShreyash/TechZIndex/image?description=1&font=Jost&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark"></a></h1>
 <h2 align="center"><a href="https://github.com/TechShreyash/TechZIndex"><b>Index Telegram Files Over Your Website</b></a></h4>
 
 <hr>
