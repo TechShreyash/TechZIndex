@@ -1,0 +1,8 @@
+API_ID = ""
+API_HASH = ""
+BOT_TOKEN = ""
+STRING_SESSION = ""
+OWNER_ID = ""
+ADMINS = [1693701096]
+BASE_URL = ""
+HOME_PAGE_REDIRECT = "https://techzbots.t.me"
