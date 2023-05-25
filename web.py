@@ -108,7 +108,7 @@ async def help_cmd(_, msg: Message):
 2. Your channel must be public
 3. Now open this link domain/channel/<your channel username>
 
-Ex : https://techzindex.herokuapp.com/channel/autoairinganimes
+Ex : http://index.techzbots.live/channel/autoairinganimes
 
 Contact [Owner](tg://user?id={OWNER_ID}) To Get domain of website
 Owner Id : {OWNER_ID}"""
